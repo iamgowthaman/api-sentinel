@@ -14,6 +14,10 @@ target/
 *.ipr
 .mvn
 .idea
+.env
+allure-report
+allure-results
+*.txt
 
 ### Eclipse ###
 .apt_generated
